@@ -5,7 +5,7 @@
 *Network Engineer based in Rio de Janeiro, Brazil.* ![Ave Imperio!](img/imperio-03.png "Ave Imperio!")  
   
   
-[E-Mail][1] \| [Website][2] \| [LinkedIn][3] \| [GitHub][4]  
+[E-Mail][1] \| [LinkedIn][2] \| [Website][3] \| [GitHub][4]  
   
 ## About:  
   
@@ -149,7 +149,7 @@ Infnet
 *Firewalls • NGFW • Fortigate • Fortimanager • Check Point • Cisco ASA • Palo Alto • Iptables • Network Administration • VPN • IPSec • IPS • WAF • Proxy • High Availability (HA) • Application Delivery and Load Balancing • A10 • F5 BigIP • Kemp Loadmaster • Linux System Administration • Linux Networking • Linux Servers • Shell Scripting • Apache • Nginx • HAProxy • Database Administration • MySQL • PostgreSQL • BGP • OSPF • Routing • Switching • DNS Administration • Bind • Mail Server • Postfix • Anti-SPAM • SPAM Filtering • Virtualization • VMware • ITIL*  
   
 [1]: <mailto:unsure_drinking221@simplelogin.com> "E-Mail"  
-[2]: <https://resume.rudwolf.net/> "Website"  
-[3]: <https://www.linkedin.com/in/rodolfo-pereira-290401258/> "LinkedIn"  
+[2]: <https://www.linkedin.com/in/rodolfo-pereira-290401258/> "LinkedIn"  
+[3]: <https://resume.rudwolf.net/> "Website"  
 [4]: <https://github.com/RudWolf69/> "GitHub"  
   
