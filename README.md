@@ -5,7 +5,7 @@
 *Network Engineer based in Rio de Janeiro, Brazil.* ![Ave Imperio!](img/imperio-03.png "Ave Imperio!")  
   
   
-[E-Mail][1] | [Website][2] | [LinkedIn][3] | [GitHub][4]  
+[E-Mail][1] \| [Website][2] \| [LinkedIn][3] \| [GitHub][4]  
   
 ## About:  
   
