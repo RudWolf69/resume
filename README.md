@@ -9,7 +9,7 @@
   
 ## About:  
   
-Working with IT Infrastructure Operations for 13+ years, I've been gathering proficiency in managing some of its main components; such as Firewalls, NGFW, IDS/IPS, WAF, VPN, Proxies and Linux-based servers as well as in high complexity issues analysis. During this process I've been always involved in:  
+Working with IT Infrastructure Operations for 13+ years, I've been gathering proficiency in managing some of its main components, such as Firewalls, NGFW, IDS/IPS, WAF, VPN, Proxies and Linux-based servers as well as in high complexity issues analysis. During this process, I've always been involved in:  
   
 - Deploying, configuring, maintaining and troubleshooting:  
     - Fortigate, Check Point, Cisco ASA, Palo Alto and Linux Firewalls Policies/Rules.  
@@ -44,7 +44,7 @@ I've also developed some good experience with Juniper and Cisco switching and ro
 **Senior Network Analyst**  
 Jan 2023 – Present  
   
-Currently working as Senior Network Analyst in a project for Prudential of Brazil (PoB). The project aims to migrate PoB's actual corporate network and infrastructure into its head office network infrastructure in USA, the Prudential International Insurance  
+Currently working as a Senior Network Analyst in a project for Prudential of Brazil (PoB). The project aims to migrate PoB's actual corporate network and infrastructure into its head office network infrastructure in the USA, the Prudential International Insurance  
 (PII).  
   
 ### EQUINIX BRAZIL  
@@ -52,25 +52,25 @@ Currently working as Senior Network Analyst in a project for Prudential of Brazi
 **Hosting Operations Specialist**  
 Jun 2017 - Jun 2022  
   
-As a member of Hosting Operations Specialists team, some of my key responsibilities were:  
+As a member of the Hosting Operations Specialists team, some of my key responsibilities were:  
   
 - Configure, maintain and troubleshoot:  
     - Fortigate, Check Point, Cisco ASA and Linux Firewalls Policies/Rules.  
     - Fortigate NGFW WAF and IPS systems.  
     - VPN Site-to-Site and Client-to-Site in general.  
     - Linux-based servers.  
-    - Network communications through Security Infrastructure; such as Firewalls, Proxies, IDS/IPS, NGFW, WAF, VPN, Servers.  
+    - Network communications through Security Infrastructure, such as Firewalls, Proxies, IDS/IPS, NGFW, WAF, VPN and Servers.  
     - Digital Certificates.  
 - Review and refine policies/rules.  
 - Taking ownership of support incidents and using all available resources and knowledge to resolve them.  
 - Being a reference on InfoSec concepts and best practices to the team.  
-- Searching for vulnerabilities and elaborate their fixing plans.  
+- Searching for vulnerabilities and elaborating their fixing plans.  
 - Developing and deploying change plans to fix and improve systems security and stability.  
 - Helping to adjust the systems by following security best practices.  
 - Look for improvement opportunities.  
 - Propose and implement security controls.  
 - Contributing to enhance team's processes maturity.  
-- Keeping team's knowledge updated by means of courses, trainings, workshops and lectures (Including new or up-todate security solutions, security standards, trends, best practices, offensive techniques and tools).  
+- Keeping the team's knowledge updated by means of courses, trainings, workshops and lectures (Including new or up-to-date security solutions, security standards, trends, best practices, offensive techniques and tools).  
   
 [//]: # "- **_Technologies used:_**"  
 [//]: # "Verificar a possibilidade de aproveitamento do campo acima."  
