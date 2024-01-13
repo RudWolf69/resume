@@ -4,7 +4,6 @@
   
 *Network Engineer based in Rio de Janeiro, Brazil.* ![Ave Imperio!](img/imperio-03.png "Ave Imperio!")  
   
-  
 [E-Mail][1] \| [LinkedIn][2] \| [Website][3] \| [GitHub][4]  
   
 ## About:  
@@ -26,16 +25,27 @@ Working with IT Infrastructure Operations for 13+ years, I've been gathering pro
   
 I've also developed some good experience with Juniper and Cisco switching and routing appliances as well as RIP, OSPF and BGP dynamic routing protocols applied to all previously mentioned technologies.  
   
-## Key personal skills:  
+I am always in a constant personal and professional development process. Currently, I'm studying for CCNA and Fortinet NSE4 certifications.  
   
-- Strong analytical and problem-solving skills.  
+And I'm also a KISS principle enthusiast. ;)  
+  
+## Personal skills:  
+  
+- Analytical  
+- Problem-solving  
+- Critical thinking  
+- Communication  
+- Dependability/Responsibility  
+- Leadership  
+- Attention to detail  
+- Resiliency/Flexibility/Adaptability  
+- Organization  
+- Creativity  
+- Collaboration  
+- Self-motivated  
+- Commitment  
+- Professionalism  
 - Result-oriented with an efficiency-driven focus.  
-- Good interpersonal skills.  
-- Disciplined, focused and determined.  
-- Resilient and adaptable.  
-- KISS principle enthusiast. :)  
-- In a constant Personal and Professional Development process.  
-    - Currently learning Python and Ansible and studying for CCNA and Fortinet NSE4 certifications.  
   
 ## Experience:  
   
@@ -144,7 +154,7 @@ Infnet
 - **English:** *Advanced*  
 - **Portuguese:** *Native*  
   
-## Key Skills:  
+## Key Hard Skills:  
   
 *Datacenters • Switching • Routing • BGP • OSPF • Firewalls • NGFW • Fortigate • Fortimanager • Check Point • Cisco ASA • Palo Alto • Iptables • Network Administration • VPN • IPSec • IPS • WAF • Proxy • High Availability (HA) • Application Delivery and Load Balancing • A10 • F5 BigIP • Kemp Loadmaster • Linux System Administration • Linux Networking • Linux Servers • Shell Scripting • Apache • Nginx • HAProxy • Database Administration • MySQL • PostgreSQL • DNS Administration • Bind • Mail Server • Postfix • Anti-SPAM • SPAM Filtering • Virtualization • VMware • ITIL*  
   
