@@ -57,7 +57,7 @@ Jan 2023 – Present
 Currently working as a Senior Network Analyst in a project for Prudential of Brazil (PoB). The project aims to migrate PoB's actual corporate network and infrastructure into its head office network infrastructure in the USA, the Prudential International Insurance  
 (PII).  
   
-### EQUINIX BRAZIL  
+### EQUINIX  
   
 **Hosting Operations Specialist**  
 Jun 2017 - Jun 2022  
