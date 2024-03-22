@@ -159,7 +159,7 @@ Infnet
 *Datacenters • Switching • Routing • BGP • OSPF • Firewalls • NGFW • Fortigate • Fortimanager • Check Point • Cisco ASA • Palo Alto • Iptables • Network Administration • VPN • IPSec • IPS • WAF • Proxy • High Availability (HA) • Application Delivery and Load Balancing • A10 • F5 BigIP • Kemp Loadmaster • Linux System Administration • Linux Networking • Linux Servers • Shell Scripting • Apache • Nginx • HAProxy • Database Administration • MySQL • PostgreSQL • DNS Administration • Bind • Mail Server • Postfix • Anti-SPAM • SPAM Filtering • Virtualization • VMware • ITIL*  
   
 [1]: <mailto:unsure_drinking221@simplelogin.com> "E-Mail"  
-[2]: <https://www.linkedin.com/in/rodolfo-pereira-290401258/> "LinkedIn"  
+[2]: <https://www.linkedin.com/in/rudwolf/> "LinkedIn"  
 [3]: <https://resume.rudwolf.net/> "Website"  
 [4]: <https://github.com/RudWolf69/> "GitHub"  
   
